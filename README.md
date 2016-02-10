@@ -7,7 +7,7 @@
 This project will give you a short introduction to me. I have also created entries for future projects.
 
 ## Demo
-The [link to my video](https://www.youtube.com/watch?v=dX3CTSd_yJU&feature=youtu.be)
+The [link to my video](https://www.youtube.com/watch?v=BJYvKzRevEA&feature=youtu.be)
 
 ## Details for teaching team
 No additional details.
