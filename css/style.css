@@ -1,0 +1,9 @@
+/* CSS Stylesheet for Matt Lee's P1 */
+
+body {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.5em;
+  width: 80%;
+  margin: 0 auto;
+}
