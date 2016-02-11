@@ -13,4 +13,3 @@ The [link to my video](https://www.youtube.com/watch?v=BJYvKzRevEA&feature=youtu
 No additional details.
 
 ## Outside code
-* Pure CSS: http://purecss.io/
